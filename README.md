@@ -9,7 +9,7 @@
     <br />
     <a href="https://gregarious-praline-8daf7d.netlify.app//">View Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/0xabdulkhalid/sunnyside-agency-landing-page/issues">Report Bug</a>
+    <a href="https://github.com/Srajan-Poojary/Equalizer/issues">Report Bug</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/Srajan-Poojary/Equalizer/issues">Request Feature</a>
   </p>
@@ -19,7 +19,7 @@
 <div align="center">
   <!-- Profiles -->
   <a href="https://www.frontendmentor.io/profile/Srajan-Poojary">
-    <img src="https://img.shields.io/badge/Profile-Srajan-Poojary-fefefe?style=for-the-badge&logo=frontendmentor" alt="Abdul Khalid's Profile">
+    <img src="https://img.shields.io/badge/Profile-Srajan-Poojary-fefefe?style=for-the-badge&logo=frontendmentor" alt="Srajan's Profile">
   </a> &nbsp;&nbsp;&nbsp;
 
   <!-- Status -->
@@ -52,7 +52,7 @@
 - |||
   | :----- | :----- |
   | Solution URL: | [To be posted :hourglass_flowing_sand:](#link) |
-  | Live Site URL: | [https://0xabdulkhalid.github.io/sunnyside-agency-landing-page/](https://0xabdulkhalid.github.io/sunnyside-agency-landing-page/) |
+  | Live Site URL: | [https://0xabdulkhalid.github.io/sunnyside-agency-landing-page/](https://gregarious-praline-8daf7d.netlify.app/) |
   |||
 
 <br>
