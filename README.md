@@ -1,70 +1,124 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
 
-## Available Scripts
+  <h2 align="center">Equalizer Landing Page Solution</h2>
+  <p align="center">
+    <a href="https://www.frontendmentor.io/challenges/equalizer-landing-page-7VJ4gp3DE"><strong>Frontend Mentor Challenge</strong></a>
+    <br />
+    <br />
+    <a href="https://gregarious-praline-8daf7d.netlify.app//">View Demo</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/0xabdulkhalid/sunnyside-agency-landing-page/issues">Report Bug</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/Srajan-Poojary/Equalizer/issues">Request Feature</a>
+  </p>
+</div>
 
-In the project directory, you can run:
+<!-- Badges -->
+<div align="center">
+  <!-- Profiles -->
+  <a href="https://www.frontendmentor.io/profile/Srajan-Poojary">
+    <img src="https://img.shields.io/badge/Profile-Srajan-Poojary-fefefe?style=for-the-badge&logo=frontendmentor" alt="Abdul Khalid's Profile">
+  </a> &nbsp;&nbsp;&nbsp;
 
-### `npm start`
+  <!-- Status -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Completed-00CE80?style=for-the-badge" alt="Status Completed">
+  </a> &nbsp;&nbsp;&nbsp;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <!-- Difficulty -->
+  <a href="https://www.frontendmentor.io/challenges?difficulties=1"  >
+    <img src="https://img.shields.io/badge/Difficulty-Junior-AAC745?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Junior">
+  </a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</div>
+<br />
+<br />
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## **Preview**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div align='center'>
+<img src='./design/preview.webp' alt='Sunnyside Agency Landing Page solution preview image'>
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+## **Links**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- |||
+  | :----- | :----- |
+  | Solution URL: | [To be posted :hourglass_flowing_sand:](#link) |
+  | Live Site URL: | [https://0xabdulkhalid.github.io/sunnyside-agency-landing-page/](https://0xabdulkhalid.github.io/sunnyside-agency-landing-page/) |
+  |||
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Pagespeed Insights Score:
+  
+- ||
+  | :-----: |
+  |  <b>Overall score 98.2% for Both Mobile & Desktop</b><br>(Below score is for mobile devices) |
+  | |
+  | <img src='./images/pagespeed-insights-score.svg' alt='Scoreboard'> |
+  | |
+  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-sunnyside-agency-landing-page/wmmfau2ycs?form_factor=desktop) to get live score |
+  ||
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## The Challenge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- The challenge is to build out this Sunnyside Agency Landing Page and get it looking as close to the design as possible.
+- Users should be able to:
+    - View the optimal layout for the site depending on their device's screen size
+    - Usage of Hamburger menu for mobile devices to display navigational links
+    - See hover states for all interactive elements on the page
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## **Built With**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br>
 
-### Deployment
+## **Tools Used**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Google](https://img.shields.io/badge/google-DA4437?style=for-the-badge&logo=google&logoColor=white) &nbsp;  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) &nbsp; ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### `npm run build` fails to minify
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## **Acknowledgment**
+
+- Challenge was provided by [Frontend Mentor](https://www.frontendmentor.io)
+
+<br>
+
+## **Let's Connect 👋**
+
+<div align=center>
+
+  <a href="https://linkedin.com/in/0xabdulkhalid" >
+    <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" >
+    <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor Profile">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.github.com/0xabdulkhalid/" >
+    <img src="https://img.shields.io/badge/Github%20Profile-131313?style=for-the-badge&logo=github&logoColor=white" alt="Github Profile">
+  </a>
+
+</div>
+
+<br>
