@@ -1,0 +1,17 @@
+
+
+.wrapper {
+    box-sizing: border-box;
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+    height: 100svh;
+    overflow-x: hidden; 
+    max-width: min(100%,2000px);
+}
+
+@media (min-width: 1400px) {
+    .wrapper {
+        overflow-x: visible;
+    }
+}

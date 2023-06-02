@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;600;700&display=swap');
+
+:root {
+    --light-gray : #66e2dc;
+    --orange : #fa7453;
+    --light-yellow : #ffb964;
+    --creamy-white : #fcfaf9;
+    --black : #191826;
+    font-size: 62.5%;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+    font-size: 1.6rem;
+    box-sizing: border-box;
+}
+
+.footer {
+    margin-top: 50rem;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.container-footer {
+    margin: 0 auto;
+    padding: 0 3rem;
+}
+
+.logo-footer {
+    margin-bottom: 1.8rem;
+}
+
+.text-content-footer {
+    font-size: 1.4rem;
+    margin-bottom: 5rem;
+    line-height: 1.5;
+}
+
+.text-content-footer b {
+    font-weight: 700;
+}
+
+.socials-icon {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 5rem;
+}
+
+@media (min-width:768px) {
+
+    .footer {
+        margin-top: 20rem;
+    }
+    .footer-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 5rem;
+    }
+
+    .logo-footer {
+        margin-bottom: 3rem;
+    }
+
+    .text-wrapper {
+        width: 50%;
+    }
+
+    .text-content-footer {
+        font-size: 1.5rem;
+        margin-bottom: 5rem;
+        line-height: 1.5;
+    }
+
+    .socials-icon img{
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+}
+
+@media (min-width: 1045px) {
+    .container-footer {
+        padding: 0 15rem;
+    }
+
+    /* .text-wrapper {
+        display: flex;
+        justify-content: space-between;
+        gap: 3rem;
+    } */
+}
